@@ -7,8 +7,8 @@
 
 
 ## Programming Languages
-<img src = 'https://github.com/omarTBakr/Images/blob/main/matlab.svg' width='50'/> <img src = 'https://github.com/omarTBakr/Images/blob/main/C_svg.png' width='50'/> <img src = 'https://github.com/omarTBakr/Images/blob/main/ISO_C%2B%2B_Logo.svg.png' height='30'/> <img src = 'https://github.com/omarTBakr/Images/blob/main/python-5.svg' height='30'/>   
+<img src = 'https://github.com/omarTBakr/Images/blob/main/matlab.svg' width='50'/> <img src = 'https://github.com/omarTBakr/Images/blob/main/C_svg.png' width='50'/> <img src = 'https://github.com/omarTBakr/Images/blob/main/ISO_C%2B%2B_Logo.svg.png' height='50'/> <img src = 'https://github.com/omarTBakr/Images/blob/main/python-5.svg' height='50'/>   
  
  ## Technologies I Use
- <img src = 'https://numpy.org/images/logo.svg' width='30'/>  <img src = 'https://github.com/pandas-dev/pandas/blob/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg' height='40'/><img src = 'http://matplotlib.org/_static/logo2.svg' width='30'/> <img src = 'https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo.svg' height='40'/> <img src = 'https://www.tensorflow.org/_static/images/tensorflow/logo.png' width='30'/> <img src = ' https://github.com/torch/torch.github.io/blob/master/static/torch-logo.png' width='30'/>  
+ <img src = 'https://github.com/omarTBakr/Images/blob/main/numpy-1.svg' width='50'/>  <img src = 'https://github.com/omarTBakr/Images/blob/main/pandas.svg' height='50'/><img src = 'https://github.com/omarTBakr/Images/blob/main/matplotlib-1.svg' width='50'/> <img src = 'https://github.com/omarTBakr/Images/blob/main/Scikit_learn_logo_small.svg.png' height='50'/> <img src = 'https://www.tensorflow.org/_static/images/tensorflow/logo.png' width='30'/> <img src = ' https://github.com/torch/torch.github.io/blob/master/static/torch-logo.png' width='30'/>  
  

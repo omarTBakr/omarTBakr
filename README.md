@@ -7,8 +7,8 @@
 
 
 ## Programming Languages
-<img src = 'https://github.com/omarTBakr/Images/blob/main/matlab.svg' width='50'/> <img src = 'https://github.com/omarTBakr/Images/blob/main/C_svg.png' width='50'/> <img src = 'https://github.com/omarTBakr/Images/blob/main/ISO_C%2B%2B_Logo.svg.png' height='50'/> <img src = 'https://github.com/omarTBakr/Images/blob/main/python-5.svg' height='50'/>   
+<img src = 'https://github.com/omarTBakr/Images/blob/main/matlab.svg' height='50'/> <img src = 'https://github.com/omarTBakr/Images/blob/main/C_svg.png' height='50'/> <img src = 'https://github.com/omarTBakr/Images/blob/main/ISO_C%2B%2B_Logo.svg.png' height='50'/> <img src = 'https://github.com/omarTBakr/Images/blob/main/python-5.svg' height='50'/>   
  
  ## Technologies I Use
- <img src = 'https://github.com/omarTBakr/Images/blob/main/numpy-1.svg' width='50'/>  <img src = 'https://github.com/omarTBakr/Images/blob/main/pandas.svg' height='50'/><img src = 'https://github.com/omarTBakr/Images/blob/main/matplotlib-1.svg' width='50'/> <img src = 'https://github.com/omarTBakr/Images/blob/main/Scikit_learn_logo_small.svg.png' height='50'/> <img src = 'https://www.tensorflow.org/_static/images/tensorflow/logo.png' width='30'/> <img src = ' https://github.com/torch/torch.github.io/blob/master/static/torch-logo.png' width='30'/>  
+ <img src = 'https://github.com/omarTBakr/Images/blob/main/pycharmedu-icon.svg' width='50'/><img src = 'https://github.com/omarTBakr/Images/blob/main/numpy-1.svg' width='50'/>  <img src = 'https://github.com/omarTBakr/Images/blob/main/pandas.svg' height='50'/><img src = 'https://github.com/omarTBakr/Images/blob/main/matplotlib-1.svg' width='50'/> <img src = 'https://github.com/omarTBakr/Images/blob/main/Scikit_learn_logo_small.svg.png' height='50'/> <img src = 'https://github.com/omarTBakr/Images/blob/main/pytorch-2.svg' width='50'/> <img src = 'https://github.com/omarTBakr/Images/blob/main/tensorflow-2.svg' width='50'/>  
  

@@ -22,4 +22,4 @@
   <img src="https://github.com/omarTBakr/Images/blob/main/tensorflow-2.svg" width="50" height="50" style="display: inline-block;"> 
 </div>
 
-[![Leetcode Stats][(https://leetcard.jacoblin.cool/lapor?ext=heatmap)](https://leetcode.com/u/omar_bakr/)
+![Leetcode Stats][(https://leetcard.jacoblin.cool/lapor?ext=heatmap)(https://leetcode.com/u/omar_bakr/)

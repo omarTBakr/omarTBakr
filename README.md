@@ -1,14 +1,26 @@
-
 ## 🚀 About Me
-* Solid foundation in Python 🐍 , C/C++, 
-* Linear Algebra , Probability&Statistics all time learner  🤓📚📐📊📈
-* Exploring the world of Machine Learning 🤖 you can find my implementation for essential ML algorithms [here](https://github.com/omarTBakr/ML-Deep-Dive)
-* Diving deeper into Deep Learning 🔭
+* Solid foundation in Python 🐍 , C/C++.
+* Passionate about Linear Algebra, Probability & Statistics – always learning! 🤓📚📐📊📈
+* Exploring Machine Learning: I enjoy building algorithms from scratch to understand their core. Check out my [ML Deep Dive](https://github.com/omarTBakr/ML-Deep-Dive).
+* Currently diving deeper into Deep Learning/computer vision concepts.
 
-## Projects
-- [New York Taxi Trip Duration](https://github.com/omarTBakr/ML-Projects/tree/main/New%20York%20City%20Taxi%20Trip%20Duration)
+## 🛠️ Skills
+
+*   **Operating Systems:** Linux (Fedora)
+*   **Programming Languages:** Python, C, C++, MATLAB
+*   **Databases:** PostgreSQL
+*   **ML/DL Libraries & Frameworks:** Scikit-learn, PyTorch, TensorFlow, NumPy, Pandas
+*   **Data Visualization:** Matplotlib, Seaborn
+*   **Tools & Platforms:** Git, Docker, VS Code, PyCharm, pgAdmin
+*   **Mathematical Foundations:** Linear Algebra, Probability, Statistics, Calculus
+
+## 🏆 Projects
+
+*   **[New York Taxi Trip Duration](https://github.com/omarTBakr/ML-Projects/tree/main/New%20York%20City%20Taxi%20Trip%20Duration)**
+    *   Comprehensive feature engineering project to predict taxi trip durations.
+    *   *Tech:* Python, Pandas, Scikit-learn, OSRM, Docker, Folium.
   
-## Problem Solving
+## 📊 Problem Solving
 
 ![](https://leetcard.jacoblin.cool/omar_bakr?ext=heatmap)
 

@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-* Solid foundation in C/C++, Python 🐍 
+* Solid foundation in Python 🐍 , C/C++, 
 * Linear Algebra , Probability&Statistics all time learner  🤓📚📐📊📈
 * Exploring the world of Machine Learning 🤖
 * Diving deeper into Deep Learning 🔭

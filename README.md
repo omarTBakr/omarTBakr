@@ -62,9 +62,11 @@
 ## 📊 Problem Solving
 
 
-
 *   **LeetCode:**
+  
     ![Leetcode Stats](https://leetcard.jacoblin.cool/omar_bakr?theme=dark)
+
+    
 *   **Codeforces:** Actively solving problems, with 82 solved [here](https://codeforces.com/profile/OMar_Bakr)
 <!--
 ## Programming Languages

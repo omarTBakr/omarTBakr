@@ -53,8 +53,10 @@
 
 ![](https://leetcard.jacoblin.cool/omar_bakr?ext=heatmap)
 
+<!--
 ## Programming Languages
 <img src = 'https://github.com/omarTBakr/Images/blob/main/matlab.svg' height='50'/> <img src = 'https://github.com/omarTBakr/Images/blob/main/C_svg.png' height='50'/> <img src = 'https://github.com/omarTBakr/Images/blob/main/ISO_C%2B%2B_Logo.svg.png' height='50'/> <img src = 'https://github.com/omarTBakr/Images/blob/main/python-5.svg' height='50'/>   
+-->
  
 <!--  ## Technologies I Use
 <div>

@@ -1,6 +1,9 @@
+      
 <h2>
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" style="vertical-align: middle;" />  Hi there! I'm Omar.
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px" style="vertical-align: middle;" />  Hi there! I'm Omar.
 </h2>
+
+    
 
 ## 🚀 About Me
 * Solid foundation in Python 🐍 , C/C++.

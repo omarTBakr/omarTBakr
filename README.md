@@ -1,3 +1,7 @@
+<p align="left">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />  Hi there! I'm Omar.
+</p>
+
 ## 🚀 About Me
 * Solid foundation in Python 🐍 , C/C++.
 * Passionate about Linear Algebra, Probability & Statistics – always learning! 🤓📚📐📊📈

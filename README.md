@@ -42,6 +42,7 @@
   <img src="https://img.shields.io/badge/Probability%20%26%20Statistics-blue?style=flat-square" alt="Probability & Statistics"/>
   <img src="https://img.shields.io/badge/Calculus-blue?style=flat-square" alt="Calculus"/>
 </p>
+
 ## 🏆 Projects
 
 *   **[New York Taxi Trip Duration](https://github.com/omarTBakr/ML-Projects/tree/main/New%20York%20City%20Taxi%20Trip%20Duration)**

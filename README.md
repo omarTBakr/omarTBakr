@@ -62,7 +62,10 @@
 ## 📊 Problem Solving
 
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/omar_bakr?theme=dark)
+
+*   **LeetCode:**
+    ![Leetcode Stats](https://leetcard.jacoblin.cool/omar_bakr?theme=dark)
+*   **Codeforces:** Actively solving problems, with 82 solved [here](https://codeforces.com/profile/OMar_Bakr)
 <!--
 ## Programming Languages
 <img src = 'https://github.com/omarTBakr/Images/blob/main/matlab.svg' height='50'/> <img src = 'https://github.com/omarTBakr/Images/blob/main/C_svg.png' height='50'/> <img src = 'https://github.com/omarTBakr/Images/blob/main/ISO_C%2B%2B_Logo.svg.png' height='50'/> <img src = 'https://github.com/omarTBakr/Images/blob/main/python-5.svg' height='50'/>   

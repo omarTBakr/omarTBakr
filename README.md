@@ -2,8 +2,12 @@
 ## 🚀 About Me
 * Solid foundation in Python 🐍 , C/C++, 
 * Linear Algebra , Probability&Statistics all time learner  🤓📚📐📊📈
-* Exploring the world of Machine Learning 🤖
+* Exploring the world of Machine Learning 🤖 you can find my implementation for essential ML algorithms [here](https://github.com/omarTBakr/ML-Deep-Dive)
 * Diving deeper into Deep Learning 🔭
+
+## Projects
+- [New York Taxi Trip Duration](https://github.com/omarTBakr/ML-Projects/tree/main/New%20York%20City%20Taxi%20Trip%20Duration)
+  
 ## Problem Solving
 
 ![](https://leetcard.jacoblin.cool/omar_bakr?ext=heatmap)

@@ -44,10 +44,13 @@
 
 **Mathematical Foundations:**
 <p align="left">
-  <!-- You could create custom badges for these or list them as text -->
-  <img src="https://img.shields.io/badge/Linear%20Algebra-blue?style=flat-square" alt="Linear Algebra"/>
-  <img src="https://img.shields.io/badge/Probability%20%26%20Statistics-blue?style=flat-square" alt="Probability & Statistics"/>
-  <img src="https://img.shields.io/badge/Calculus-blue?style=flat-square" alt="Calculus"/>
+  <img src="https://img.shields.io/badge/Discrete%20Math-764ABC?style=flat-square" alt="Discrete Math"/>
+  <img src="https://img.shields.io/badge/Linear%20Algebra-0072BD?style=flat-square" alt="Linear Algebra"/>
+  <img src="https://img.shields.io/badge/Multivariable%20Calculus-E94E77?style=flat-square" alt="Multivariable Calculus"/>
+  <img src="https://img.shields.io/badge/Probability-F07C28?style=flat-square" alt="Probability"/>
+  <img src="https://img.shields.io/badge/Statistics-5CB85C?style=flat-square" alt="Statistics"/>
+  <img src="https://img.shields.io/badge/Algorithms-4B0082?style=flat-square" alt="Algorithms"/>
+  <img src="https://img.shields.io/badge/Optimization-D9534F?style=flat-square" alt="Optimization"/>
 </p>
 
 ## 🏆 Projects
